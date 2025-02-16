@@ -1,0 +1,20 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+## VS Code
+.vscode/
+.vs/
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
